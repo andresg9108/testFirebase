@@ -1,0 +1,19 @@
+body{
+  color: #fff;
+  background-color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#firebaseui-auth-container {
+  position: static;
+  margin: 0;
+  padding: 0;
+  width: 500px;
+}
+
+#firebaseui-auth-container{
+  background-color: #303030;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+}
